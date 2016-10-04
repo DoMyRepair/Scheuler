@@ -1,2 +1,3 @@
-# Scheuler
+# Scheduler
 Scheduler will help in end-to-end scheduling service calls.
+Features to list down all the required features in Scheduler for it to be an effective scheduling tool. It includes setting time, date, place, appliance name, reported problem, service required, name of the servicemen, estimated cost (if possible), start journey, start job, pausing job, close job, AMC service date, amount collected, labour component, parts component, warranty period, rescheduling feature, alerts to -- technician, customer; alerts for -- starting journey, starting job, closing job, payment to customer, collection to company, rescheduling date & time, pause job, AMC service date, warranty over date.
